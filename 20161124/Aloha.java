@@ -1,6 +1,9 @@
 public class Aloha {
 	public static void main(String[] args) {
-		System.out.println("Aloha");
+ 		for(int i=0;i<50;i++){
+ 				System.out.println("Aloha");
+	
+ 		}
 
 	}
 	
